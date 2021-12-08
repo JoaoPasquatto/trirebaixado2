@@ -1,0 +1,17 @@
+body { 
+    background-color: green;
+    margin-top: 51px;
+    margin-left: 51px;
+    margin-bottom: 51px;
+    margin-right: 51px;
+    font-family: monospace;
+    font-size: 12pt;
+    color: white;
+}
+h1 { text-align: center;
+}
+img {
+    height: 200;
+    width: 200;
+    border-radius: 5%;
+    }
